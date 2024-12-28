@@ -1,11 +1,11 @@
 # BunnyHop
-BUNNY HOP FOR ALL GAMES, Pulse "V" for enable and disable
+BUNNY HOP FOR ALL GAMES, Pulse a key for enable and disable
 
 
-This program allows you to toggle the bunnyhop on and off in all games with the **V** key.
+This program allows you to toggle the bunnyhop on and off in all games with the key you pick.
 
 ## Instructions:
-1. Download the 'bunnyhop_toggle.exe' file from 'releases/'.
+1. Download the Newest release file from 'releases/'.
 2. Run the '.exe' file.
 3. In-game, press the **V** key to toggle the bunnyhop on/off.
 4. Press **ESC** to stop the script.
